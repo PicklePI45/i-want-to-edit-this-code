@@ -67,7 +67,7 @@ This mod adds a lot of other features related to Estrogen and its production. Th
 - Some custom mechanics you may discover when dashing around! 💨<br>
   <img src="https://static.miraheze.org/celestewiki/thumb/6/67/Wavedashing.gif/240px-Wavedashing.gif" alt="dashing" width="256"/>
 - New Model Features for the player when Estrogen effect is active 👀<br>
-  <img src="https://cdn.modrinth.com/data/HhIJW8n1/images/a3d8012cecb69e12ae9e976bc4819fb596afd0c2.png" alt="me :3" width="256"/>
+  <img src="https://cdn.modrinth.com/data/HhIJW8n1/images/a3d8012cecb69e12ae9e976bc4819fb596afd0c2.png" alt="maya :3" width="256"/>
 - A new type of [(musical?)](https://erora.bandcamp.com/track/g03c) cookie 😋 🍪<br>
   <img src="https://i.imgur.com/lrPWwPT.png" alt="Estrogen Chip Cookie" width="256"/>
 - And many more (including some easter eggs)! 🥚<br>
@@ -79,16 +79,10 @@ You can read more about this mods features, mechanics and some guides on the [wi
 
 Most recipes that seem to not be visible are done using cauldron interactions! More on the wiki!
 
-This mod is still in development, so expect some bugs and missing features. If you find any bugs or suggestions, please
-report them on my [discord](https://discord.gg/w7PpGax9Bq). This mod has been inspired by the game Celeste and I would
-love to thank to everyone who contributed with ideas and features!
-
-## `Bisect Partnership`
-
-[![Promo Code](https://www.bisecthosting.com/partners/custom-banners/3af862e4-2c3a-4ae5-9caf-cc9f80d19620.png)](https://bisecthosting.com/mayaqq)
+yall dont have a way to report bugs womp womp
 
 ## `Community`
 
-For any questions or support you can join my discord by clicking the button below!
+For any questions or support you can join Maya's discord by clicking the button below!
 
 [![Discord Server](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg)](https://discord.gg/w7PpGax9Bq)
