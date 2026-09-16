@@ -20,6 +20,8 @@
 </a>
 </div>
 
+Pickle's Version of Estrogen (ALL CREDIT TO MAYA I CANT MAKE SOMETHING THIS GOOD)
+
 ## Previously, this mod contained Create: Estrogen in it, please install it separately [here](https://modrinth.com/mod/create-estrogen) if you wish to maintain create compatibility 
 
 ## `Information`
