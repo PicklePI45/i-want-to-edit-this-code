@@ -182,11 +182,11 @@ class DreamBlock(p0: Properties) : GlassLikeBlock(p0), BlockWithEntity<DreamBloc
             lookAngle = entity.lookAngle
         }
 
-        // if player hits a wall while inside dream blocks, make them bounce
-        // Vec3 movement = player.getDeltaMovement();
-        // if (movement.x() == 0 && lookAngle.x() != 0) lookAngle = lookAngle.multiply(-1, 1, 1);
-        // if (movement.y() == 0 && lookAngle.y() != 0) lookAngle = lookAngle.multiply(1, -1, 1);
-        // if (movement.z() == 0 && lookAngle.z() != 0) lookAngle = lookAngle.multiply(1, 1, -1);
+        // if player hits a wall while inside dream blocks, make them bounce (this is what im adding back)
+        Vec3 movement = player.getDeltaMovement();
+        if (movement.x() == 0 && lookAngle.x() != 0) lookAngle = lookAngle.multiply(-1, 1, 1);
+        if (movement.y() == 0 && lookAngle.y() != 0) lookAngle = lookAngle.multiply(1, -1, 1);
+        if (movement.z() == 0 && lookAngle.z() != 0) lookAngle = lookAngle.multiply(1, 1, -1);
         entity.deltaMovement = lookAngle!!.scale(2.0)
     }
 
